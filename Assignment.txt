@@ -1,0 +1,160 @@
+Q1.What is Computer ?
+
+Ans:- A computer is an electronic device that can process, store, and retrieve data. It performs various tasks by executing instructions from software programs. Key components of a computer include:
+
+1. **Central Processing Unit (CPU)**: The brain of the computer, which performs calculations and executes instructions.
+2. **Memory (RAM)**: Temporary storage that holds data and instructions for the CPU while it is running.
+3. **Storage (Hard Drive or SSD)**: Permanent storage for data, applications, and the operating system.
+4. **Motherboard**: The main circuit board that connects all components of the computer.
+5. **Input Devices**: Tools like keyboards and mice that allow users to interact with the computer.
+6. **Output Devices**: Devices like monitors and printers that display or output data from the computer.
+7. **Power Supply**: Provides power to all components of the computer.
+
+Computers can be used for a wide range of tasks, including word processing, internet browsing, gaming, programming, data analysis, and more.
+
+Q2.What is RAM ?
+
+Ans:- RAM, or Random Access Memory, is a type of computer memory that is used to store data and machine code currently being used. Here are some key points about RAM:
+
+1. **Volatile Memory**: RAM is volatile, meaning it only holds data while the computer is powered on. Once the power is turned off, the data is lost.
+2. **Speed**: RAM is much faster than permanent storage (like hard drives or SSDs) and allows quick read and write access to data.
+3. **Temporary Storage**: It stores data that the CPU needs quickly, such as the operating system, applications in use, and data currently being processed.
+4. **Capacity**: The amount of RAM in a computer can affect its performance, especially when running multiple applications or large programs. More RAM generally allows for smoother multitasking and better performance.
+5. **Types of RAM**: There are different types of RAM, including DDR (Double Data Rate), DDR2, DDR3, DDR4, and DDR5, with each new generation offering improvements in speed and efficiency.
+
+In summary, RAM is essential for a computer's performance as it provides the necessary workspace for the CPU to process data efficiently.
+
+Q4. What are the input devices that is use to take input as text and numbers on documents in the computer ?
+
+Ans:- Input devices used to take input as text and numbers on documents in a computer include:
+
+1. **Keyboard**: The most common input device for entering text and numbers. It consists of keys for letters, numbers, symbols, and special functions.
+
+2. **Numeric Keypad**: Often part of the keyboard or a separate device, it provides a more convenient way to enter numbers.
+
+3. **Touchscreen**: Allows users to input text and numbers directly on the screen using an on-screen keyboard or handwriting recognition.
+
+4. **Stylus**: Used with touchscreens or graphics tablets to write or draw, which can be converted into text and numbers.
+
+5. **Voice Recognition Systems**: Software like Dragon NaturallySpeaking or the built-in voice recognition in operating systems can convert spoken words into text.
+
+6. **Digital Pen**: Used with certain devices, it allows users to write on a digital pad, and the writing can be converted into text and numbers.
+
+These devices enable users to interact with and input data into the computer in various ways.
+
+Q3.Where is the data store in computer ?
+
+Ans:- Data in a computer is stored in several different places, each serving a specific purpose:
+
+1. **Hard Drive (HDD) or Solid-State Drive (SSD)**: These are the primary storage devices for a computer. They store the operating system, applications, and user data (documents, photos, videos, etc.) permanently, even when the computer is turned off. HDDs use spinning disks to read/write data, while SSDs use flash memory for faster performance and durability.
+
+2. **Random Access Memory (RAM)**: This is temporary storage used to hold data that is actively being used or processed by the CPU. RAM is volatile, meaning it loses all stored data when the computer is turned off.
+
+3. **Cache Memory**: A smaller, faster type of volatile memory located inside the CPU or very close to it. It stores frequently accessed data and instructions to speed up processing.
+
+4. **Optical Drives**: Devices like CD, DVD, or Blu-ray drives can read and write data on optical discs. These are less common now but are still used for certain types of data storage and distribution.
+
+5. **External Storage**: Devices such as external hard drives, USB flash drives, and memory cards can be connected to a computer to provide additional storage. These are portable and can be used to transfer data between computers.
+
+6. **Network Storage**: Data can also be stored on remote servers accessible over a network, often referred to as cloud storage. Services like Google Drive, Dropbox, and OneDrive allow users to store and access data online from any device with an internet connection.
+
+Each of these storage options has its own advantages and is used for different purposes based on speed, capacity, and data permanence requirements.
+
+Q6.Which is the input device is use to move cursor and pointer on the screen ?
+
+Ans:- The input device used to move the cursor and pointer on the screen is typically a **mouse**. Here are some common types of pointing devices:
+
+1. **Mouse**: A hand-held device with buttons and a scroll wheel, used to move the cursor and select items on the screen.
+   - **Optical Mouse**: Uses a light sensor to detect movement.
+   - **Laser Mouse**: Uses a laser for more precise movement detection.
+   - **Wireless Mouse**: Connects to the computer using Bluetooth or a wireless USB receiver.
+
+2. **Touchpad**: A flat surface found on laptops, where finger movements control the cursor.
+
+3. **Trackball**: A stationary device with a ball that can be rotated to move the cursor. It requires less desk space and is often used in specialized environments.
+
+4. **Stylus and Touchscreen**: A pen-like device used on touchscreens to directly interact with items on the screen.
+
+5. **TrackPoint**: A small joystick-like device found on some laptop keyboards, typically in the middle of the keyboard between the G, H, and B keys.
+
+6. **Graphics Tablet**: A device used by artists and designers, where a stylus is used to draw directly on the tablet, with movements translated to the screen.
+
+These devices allow users to interact with graphical user interfaces and applications by moving the cursor and making selections.
+
+Q5. What are the output devices ?
+
+Ans :- Output devices are hardware components that convey information from a computer to the user. Here are some common output devices:
+
+1. **Monitor**: Also known as a display screen, it visually presents text, graphics, and videos. 
+   - **LCD (Liquid Crystal Display)**: Common type of flat-panel display.
+   - **LED (Light Emitting Diode)**: A type of LCD that uses LEDs for backlighting.
+   - **OLED (Organic Light Emitting Diode)**: Offers better color and contrast than traditional LCDs.
+
+2. **Printer**: Converts digital documents into physical form.
+   - **Inkjet Printer**: Uses liquid ink to print, suitable for photo and color printing.
+   - **Laser Printer**: Uses toner and laser technology for high-speed, high-volume printing.
+   - **3D Printer**: Creates three-dimensional objects by laying down successive layers of material.
+
+3. **Speakers**: Output sound, allowing users to hear audio from the computer.
+
+4. **Headphones**: Personal audio output devices that allow users to listen to sound privately.
+
+5. **Projector**: Projects images and videos onto a large surface, such as a screen or wall.
+
+6. **Plotter**: Used for printing large graphics, such as architectural blueprints or engineering drawings.
+
+7. **VR Headsets**: Provide immersive virtual reality experiences by displaying images directly in front of the user’s eyes and often including audio.
+
+8. **Haptic Devices**: Provide tactile feedback, such as vibrations, to simulate touch sensations.
+
+Each of these output devices serves different purposes and is used in various contexts depending on the type of information being conveyed and the user's needs.
+
+Q7. Which language is directly understand by the computer without any translation of program ?
+
+Ans:- The language that is directly understood by the computer without any translation is **machine language** (also known as machine code). Machine language consists of binary code, which is a series of 0s and 1s. These binary instructions are directly executed by a computer's central processing unit (CPU).
+
+Here are some key points about machine language:
+
+1. **Binary Format**: Machine language instructions are represented in binary, which corresponds directly to the electrical signals in the computer's hardware.
+
+2. **Low-Level Language**: It is considered a low-level programming language because it operates at the most fundamental level of the computer hardware.
+
+3. **CPU Specific**: Machine language instructions are specific to a particular type of CPU architecture. An instruction set designed for one type of processor will not work on a different type.
+
+4. **No Translation Needed**: Since it is the native language of the computer, machine language does not require translation or interpretation.
+
+Because writing programs in machine language is complex and error-prone, higher-level programming languages are used to simplify the process. These higher-level languages (like Python, Java, C++) are then translated into machine code by compilers or interpreted by interpreters.
+
+Q8.What are input devices ?
+
+Ans:- Input devices are hardware components that allow users to provide data and control signals to a computer. Here are some common input devices:
+
+1. **Keyboard**: The primary device for text input, consisting of keys for letters, numbers, symbols, and functions.
+
+2. **Mouse**: A pointing device used to move a cursor on the screen and select items. Variants include optical mice, laser mice, and wireless mice.
+
+3. **Touchpad**: A flat, touch-sensitive surface found on laptops, used to control the cursor by finger movement.
+
+4. **Trackball**: A stationary device with a movable ball on top, used to move the cursor by rotating the ball.
+
+5. **Stylus**: A pen-like device used on touchscreens and graphics tablets for precise input.
+
+6. **Touchscreen**: A display that responds to touch, allowing direct interaction with the screen.
+
+7. **Scanner**: Converts physical documents and images into digital format for the computer.
+
+8. **Microphone**: Captures audio input for the computer, used for voice commands, dictation, and communication.
+
+9. **Webcam**: Captures video input for the computer, used for video conferencing and recording.
+
+10. **Game Controller**: Includes devices like joysticks, gamepads, and steering wheels used for gaming input.
+
+11. **Graphics Tablet**: A flat surface that detects pen or stylus input, commonly used by artists and designers.
+
+12. **Barcode Reader**: Scans and interprets barcodes, converting them into digital data for the computer.
+
+13. **Fingerprint Scanner**: Captures and identifies fingerprint data for security and authentication purposes.
+
+14. **Remote Control**: Used to input commands from a distance, often for media devices connected to the computer.
+
+These devices facilitate a wide range of interactions with the computer, from basic text entry to complex graphical input and control.
